@@ -1,0 +1,234 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: FreePBX - asternic_cdr module ru translation\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2009-11-16 22:30+0100\n"
+"PO-Revision-Date: 2022-06-26 11:27+0300\n"
+"Last-Translator: Nicolas Gudino <asternic@gmail.com>\n"
+"Language-Team: Nicolas Gudino <asternic@gmail.com>\n"
+"Language: ru\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<12 || n%100>14) ? 1 : 2);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Generator: Poedit 3.1\n"
+
+msgid "Home"
+msgstr ""
+
+msgid "Outgoing"
+msgstr "Исходящие"
+
+msgid "Incoming"
+msgstr "Входящие"
+
+msgid "Distribution"
+msgstr "Статистика"
+
+msgid "Today's Dashboard"
+msgstr "За сегодня"
+
+msgid "Call Counters"
+msgstr "Подсчет звонков"
+
+msgid "Total Calls"
+msgstr "Всего звонков"
+
+msgid "Total Inbound Calls"
+msgstr "Всего входящих звонков"
+
+msgid "Total Outbound Calls"
+msgstr "Всего исходящих звонков"
+
+msgid "Unique Callers"
+msgstr "Уникальные номера"
+
+msgid "Call Duration"
+msgstr "Длительность звонка"
+
+msgid "Total Minutes"
+msgstr "Всего минут"
+
+msgid "Total Inbound Minutes"
+msgstr "Всего входящих минут"
+
+msgid "Total Outbound Minutes"
+msgstr "Всего исходящих минут"
+
+msgid "Average Inbound Call Duration"
+msgstr "Среднее время входящего звонка"
+
+msgid "Average Outbound Call Duration"
+msgstr "Среднее время Исходящего звонка"
+
+msgid "Select Extensions"
+msgstr "Выберите сотрудников"
+
+msgid "Available"
+msgstr "Доступно"
+
+msgid "Selected"
+msgstr "Выбрано "
+
+msgid "Select Timeframe"
+msgstr "Выберите период"
+
+msgid "Shortcuts"
+msgstr "Ярлыки"
+
+msgid "Today"
+msgstr "Сегодня"
+
+msgid "This Week"
+msgstr "На этой неделе"
+
+msgid "This Month"
+msgstr "В этом месяце"
+
+msgid "Last three months"
+msgstr "Последние три месяца"
+
+msgid "Start Date"
+msgstr "Начальная дата"
+
+msgid "End Date"
+msgstr "Конечная дата"
+
+msgid "Run Report"
+msgstr "Запустить отчет"
+
+msgid "Report Information"
+msgstr "Информация об отчете"
+
+msgid "Period"
+msgstr "Период"
+
+msgid "Outgoing Calls"
+msgstr "Исходящие звонки"
+
+msgid "Incoming Calls"
+msgstr "Входящие звонки"
+
+msgid "Number of Calls"
+msgstr "Количество звонков"
+
+msgid "Total Time"
+msgstr "Всего времени"
+
+msgid "Avg. ring time"
+msgstr "Среднее время гудка"
+
+msgid "User"
+msgstr "Пользователь"
+
+msgid "Total"
+msgstr "Всего"
+
+msgid "Completed"
+msgstr "Выполнено"
+
+msgid "Missed"
+msgstr "Пропущено"
+
+msgid "% Missed"
+msgstr "% Пропущенных"
+
+msgid "Duration"
+msgstr "Длительность"
+
+msgid "% Duration"
+msgstr "% Длительности"
+
+msgid "Avg Duration"
+msgstr "Средняя длительность"
+
+msgid "Total Ring Time"
+msgstr "Всего времени гудков"
+
+msgid "Avg Ring Time"
+msgstr "Среднее время гудка"
+
+msgid "days"
+msgstr "дней"
+
+msgid "Call Distribution per Hour"
+msgstr "Распределение звонков по часам"
+
+msgid "Hour"
+msgstr "Час"
+
+msgid "Call Count"
+msgstr "Количество звонков"
+
+msgid "Total Call Duration by User"
+msgstr "Общая длительность звонков сотрудников"
+
+msgid "Incoming/Outgoing Calls by User"
+msgstr "Входящие/Исходящие звонки сотрудников"
+
+msgid "Date"
+msgstr "Дата"
+
+msgid "Hour of day (8 means 08h00 - 08h59)"
+msgstr "Распределение звонков по часам (8 значит с 8:00 до 8:59)"
+
+msgid "Sunday"
+msgstr "Воскресенье"
+
+msgid "Saturday"
+msgstr "Суббота"
+
+msgid "Friday"
+msgstr "Пятница"
+
+msgid "Thursday"
+msgstr "Четверг"
+
+msgid "Wednesday"
+msgstr "Среда"
+
+msgid "Tuesday"
+msgstr "Вторник"
+
+msgid "Monday"
+msgstr "Понедельник"
+
+msgid "Combined"
+msgstr "Комбинировано"
+
+msgid "Incoming / Outgoing"
+msgstr "Входящие/Исходящие"
+
+msgid "Ring Time"
+msgstr "Время гудка"
+
+msgid "Billable Time"
+msgstr "Время разговора"
+
+msgid "From"
+msgstr "От"
+
+msgid "To"
+msgstr "На номер"
+
+msgid "Disposition"
+msgstr "Распределение"
+
+msgid "Listen"
+msgstr "Слушать"
+
+msgid "Play"
+msgstr "Проиграть"
+
+msgid "Download"
+msgstr "Загрузить"
+
+msgid "Total Internal Calls"
+msgstr "Всего внутренних звонков"
+
+msgid "Total Internal Minutes"
+msgstr "Всего внутренних минут"
+
+msgid "Average Internal Call Duration"
+msgstr "Среднее время внутреннего звонка"
